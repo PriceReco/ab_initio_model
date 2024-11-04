@@ -2,5 +2,5 @@ plotly
 scikit-learn
 numpy
 pandas
-streamlit
+streamlit==1.38.0
 openpyxl
